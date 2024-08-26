@@ -19,7 +19,7 @@ const Home = () => {
   return (
     <Base>
       <h1>
-     Aplicação React Base
+      Há coisas que só acontecem ao Botafogo
       </h1>
     </Base>
   )
